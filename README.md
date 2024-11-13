@@ -40,9 +40,9 @@ This project is a Django application designed to manage and configure a root fol
    python manage.py runserver
 
 6. Access the app in your browser at http://127.0.0.1:8000/.
-### URL Routes
-/filemonitor/configure/: View and update the root folder configuration.
-/filemonitor/somewhere/: Confirmation page showing the success message.
+    ### URL Routes
+   - /filemonitor/configure/: View and update the root folder configuration.
+   - /filemonitor/somewhere/: Confirmation page showing the success message.
 
 ### Testing
 7. To run the tests for this project, execute:
